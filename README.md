@@ -2,7 +2,7 @@
 Get feedbacks from your users and save it in a database!
 
 ## This project is a template available for sale:
-You can buy it [Here!](https://code.com.br/p/insightbox)
+You can buy it [here](https://code.com.br/p/insightbox).
 
 ## About this repository:
 All files are encrypted. 
