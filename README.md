@@ -6,7 +6,7 @@ You can buy it [here](https://code.com.br/p/insightbox).
 
 ## About this repository:
 All files are encrypted. 
-This repository is intended solely for my personal use and serves as a placeholder to indicate its existence to others.
+This repository is intended solely for my personal use and serves as a placeholder to indicate its existence to others!
 
 
 ### By: Andreas Yuji
